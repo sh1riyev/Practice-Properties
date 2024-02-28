@@ -1,0 +1,15 @@
+/Users/sh1riyev/Projects/Class/Class/bin/Debug/net6.0/Class
+/Users/sh1riyev/Projects/Class/Class/bin/Debug/net6.0/Class.deps.json
+/Users/sh1riyev/Projects/Class/Class/bin/Debug/net6.0/Class.runtimeconfig.json
+/Users/sh1riyev/Projects/Class/Class/bin/Debug/net6.0/Class.dll
+/Users/sh1riyev/Projects/Class/Class/bin/Debug/net6.0/Class.pdb
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/Class.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/Class.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/Class.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/Class.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/Class.dll
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/refint/Class.dll
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/Class.pdb
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/Class.genruntimeconfig.cache
+/Users/sh1riyev/Projects/Class/Class/obj/Debug/net6.0/ref/Class.dll

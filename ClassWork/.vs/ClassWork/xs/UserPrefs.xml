@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F92629DF-9666-4F9A-A27D-938D749DA8CD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWork/Models/Bird.cs">
+    <Files>
+      <File FileName="ClassWork/Program.cs" Line="10" Column="1" />
+      <File FileName="ClassWork/Models/Animal.cs" Line="9" Column="1" />
+      <File FileName="ClassWork/Models/Bird.cs" Line="11" Column="10" />
+      <File FileName="ClassWork/Models/Book.cs" Line="12" Column="40" />
+      <File FileName="ClassWork/Models/Test1.cs" Line="13" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWork" expanded="True">
+            <Node name="ClassWork" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Bird.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClassWork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

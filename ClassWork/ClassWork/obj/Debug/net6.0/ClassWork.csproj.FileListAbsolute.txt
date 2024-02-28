@@ -1,0 +1,15 @@
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.AssemblyInfo.cs
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork
+/Users/sh1riyev/Projects/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork.deps.json
+/Users/sh1riyev/Projects/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork.runtimeconfig.json
+/Users/sh1riyev/Projects/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork.dll
+/Users/sh1riyev/Projects/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork.pdb
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.dll
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/refint/ClassWork.dll
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.pdb
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.genruntimeconfig.cache
+/Users/sh1riyev/Projects/ClassWork/ClassWork/obj/Debug/net6.0/ref/ClassWork.dll
